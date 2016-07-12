@@ -1,0 +1,23 @@
+body {
+    background-color: purple;
+}
+
+a {
+  color: pink;  
+}
+
+a:visited {
+    color: gold;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+a:active {
+    color: orange;
+}
+
+a:focus {
+    color: red;
+}
