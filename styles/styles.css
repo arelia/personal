@@ -20,4 +20,6 @@ a:active {
 
 a:focus {
     color: red;
+    text-decoration: underline;
 }
+
